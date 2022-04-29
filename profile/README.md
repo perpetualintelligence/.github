@@ -2,7 +2,7 @@
 This is the official GitHub account for Perpetual Intelligence's managed services, cross-platform frameworks, and developer tools.
 
 ### Products
-#### [pi-cli](https://github.com/perpetualintelligence/cli): The most flexible cross-plaform framework to build modern CLI terminals.
+#### [pi-cli](https://github.com/perpetualintelligence/cli): The most flexible cross-plaform framework for building modern CLI terminals.
 
 ### Platform
 ![macOS](https://img.shields.io/badge/macOS-grey?style=flat-square&logo=macos)
