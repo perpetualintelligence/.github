@@ -3,6 +3,7 @@ This is the official GitHub account for Perpetual Intelligence's managed service
 
 ### Products
 #### [pi-cli](https://github.com/perpetualintelligence/cli): The most flexible cross-platform framework for building modern CLI terminals.
+#### [oneimlx](https://github.com/perpetualintelligence/onimlx): The most flexible cross-platform framework for building licensing and permission management.
 
 ### Platform
 ![macOS](https://img.shields.io/badge/macOS-grey?style=flat-square&logo=macos)
