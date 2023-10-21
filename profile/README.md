@@ -3,7 +3,7 @@ This is the official GitHub account for Perpetual Intelligence's managed service
 
 ### Products
 #### [oneterminal](https://github.com/perpetualintelligence/oneterminal): The most flexible cross-platform framework for building modern terminals.
-#### [oneimlx](https://github.com/perpetualintelligence/onimlx): The most flexible cross-platform framework for building licensing and permission management.
+#### [oneimlx](https://github.com/perpetualintelligence/oneimlx): The most flexible cross-platform framework for building licensing and permission management.
 
 ### Platform
 ![macOS](https://img.shields.io/badge/macOS-grey?style=flat-square&logo=macos)
