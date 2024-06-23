@@ -3,7 +3,7 @@ This is the official GitHub account for Perpetual Intelligence &reg; L.L.C. mana
 
 ### Products
 #### [oneimlx.terminal](https://github.com/perpetualintelligence/oneterminal): The most flexible cross-platform framework for building modern CLI and terminal apps.
-#### [oneimlx](https://github.com/perpetualintelligence/oneimlx): The most flexible cross-platform framework for building licensing and permission management.
+#### [oneimlx](https://github.com/perpetualintelligence/oneimlx): The most flexible cross-platform engineering and automation framework with built-in zero-trust.
 
 ### Platform
 ![macOS](https://img.shields.io/badge/macOS-grey?style=flat-square&logo=macos)
